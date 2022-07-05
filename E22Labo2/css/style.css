@@ -2,6 +2,22 @@
     background-image: url('../images/fond2_1.jpg');
     
 }
+table{
+    width: 70%;
+    background-color:lightskyblue;
+    border:1px solid black;
+}
+td{
+    border:1px solid black;
+    background-color:rgb(218, 239, 177);
+    text-align: center;
+
+}
+th{
+    border:1px solid black;
+    background-color:lightskyblue;
+
+}
 .bgmusique{
     background-image: url('../images/bgindex.webp');
 }
@@ -34,6 +50,12 @@
     width: 55px;
     height: 65px;
 }
+.imgtable {
+    width: 30%;
+    height: 150px;
+    
+}
+
 .divtitre {
     padding-top: 10px;
     padding-left: 30px;
