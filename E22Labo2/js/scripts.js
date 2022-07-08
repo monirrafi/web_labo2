@@ -11,7 +11,7 @@ let listeInteret = [
   "musique","soccer","dessin","autre"
 ]
 let listeSite = [
-  "https://en.wikipedia.org/wiki/Music","https://www.fifa.com","https://www.fifa.com",
+  "https://en.wikipedia.org/wiki/Music","https://www.fifa.com","https://ebama.ca",
   "https://www.pbs.org/wnet/nature"
 ]
 let remplirInteretDansSelect = () =>{
@@ -25,19 +25,10 @@ let traiterInterert = () => {
 
   let selInteret = document.getElementById('selInteret');
   let idInteret = selInteret.options[selInteret.selectedIndex].text;
-  /*
-  let objInteret = listeInteret.find(unInteret => unInteret.id == idInteret);
   
-  let srcInteret;
- */
   let index = listeInteret.findIndex( interet => interet == idInteret);
- // for(let unInteret of listeInteret){
-  //  if(unInteret == idInteret){
+ 
       document.getElementById('idframe').src = listeSite[index];
-
-  //  }
-//    selInteret.options[selInteret.options.length] = new Option(unInteret);
- // } 
-  
+ 
 
 }
