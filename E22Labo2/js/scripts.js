@@ -20,8 +20,6 @@ let traiterInterert = () => {
   let objInteret = listeInteret.find(unInteret => unInteret.id == idInteret);
   let srcInteret = objInteret.id;
   
- // document.getElementById('frameErr').innerHTML = srcInteret;
-
   document.getElementById('idframe').src = chemin + srcInteret;
 
 }
