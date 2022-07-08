@@ -1,13 +1,11 @@
+
+ Cette page devra avoir le titre « --- Autres intérêts --- » 1pts
+ Vous êtes libre de faire la mise en page tel que vous désirez mais cette page devra contenir les éléments
 suivants :
+o Un select dans le menu de cette page ayant 4 options concernant les autres intérêts. Le contenu
+de ces intérêts seront injectés dans un « iframe » placé au centre de la page. Ces contenus sont
+dans le dossier pages/interets.
 o Un titre centré et plus gros que le texte normal 1pts
-o Un texte défilant 3pts
-o Votre nom, prénom et votre numéro de cours 1pts
-o Différentes tailles de caractères, police de caractère, du gras et de l’italique 3pts
-o Une liste à puces 6pts
- Le texte « Musique préférée » sera un lien hypertexte vers la page musique.html
- Le texte « Loisirs préférés » sera un lien hypertexte vers la page loisir.html
- Le texte « Autres intérêts » sera un lien hypertexte vers la page autres.html
-o Une image d’arrière plan que vous pourrez trouver sur Internet en faisant une recherche
-(n’oubliez pas d’enregistrer vos images dans le dossier images) 4pts
-o Insérez une petite image qui sera un lien vers le site du du Collège 3pts
-o Quelques paragraphes de texte qui vous présentent. 3
+o Le texte « Page d’accueil » qui sera un lien hypertexte vers la page d’accueil 2pts
+o La présentation de vos autres intérêts selon une ergonomie propre à vous. Utilisez vos acquis en
+html et css pour faire quelque chose de très créatif. (4pts*4 intérêts = 16pts)
