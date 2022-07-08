@@ -28,7 +28,8 @@ let traiterInterert = () => {
   
   let index = listeInteret.findIndex( interet => interet == idInteret);
  
-      document.getElementById('idframe').src = listeSite[index];
- 
+  document.getElementById('idframe').style.display="block";
+  document.getElementById('idframe').src = listeSite[index];
+
 
 }
