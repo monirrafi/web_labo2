@@ -19,10 +19,10 @@ th{
 
 }
 .bgmusique{
-    background-image: url('images/bgindex.webp');
+    background-image: url('../images/bgindex.webp');
 }
 .bgloisir{
-    background-image: url('images/bleu2.jpg');
+    background-image: url('../images/bleu2.jpg');
     
 }
 
